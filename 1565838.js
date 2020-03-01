@@ -1,6 +1,6 @@
 var curriculum = [
 
-{
+{ section: "1. Introduction to Angela",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/0/0",
   title: "What You'll Get in This Course ",
   duration: "03:09",
