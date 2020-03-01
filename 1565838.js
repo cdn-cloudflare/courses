@@ -1,6 +1,6 @@
 var curriculum = [
 
-{ section: "1. Introduction to Angela",
+{ section: "1. Front-End Web Development",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/0/0",
   title: "What You'll Get in This Course ",
   duration: "03:09",
@@ -42,7 +42,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "2. Introduction to HTML",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/1/0",
   title: "Introduction to HTML ",
   duration: "10:53",
