@@ -98,7 +98,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "3. Intermediate HTML",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/2/0",
   title: "HTML Tables ",
   duration: "12:03",
@@ -146,8 +146,8 @@ var curriculum = [
   duration: "06:48",
   type: "video"
 },
-
-{
+ 
+{ section: "4. Introduction to CSS",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/3/0",
   title: "Introduction to CSS ",
   duration: "03:04",
@@ -203,7 +203,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "5. Intermediate CSS",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/4/0",
   title: "What We'll Make - Stylised Personal Site ",
   duration: "04:57",
@@ -301,7 +301,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "6. Introduction to Bootstrap 4",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/5/0",
   title: "What is Bootstrap? ",
   duration: "14:36",
@@ -385,7 +385,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "7. Intermediate Bootstrap",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/6/0",
   title: "The Bootstrap Carousel Part 1 ",
   duration: "09:39",
@@ -469,7 +469,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "8. Introduction to Javascript ES6",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/7/0",
   title: "Introduction to Javascript ",
   duration: "11:49",
@@ -595,7 +595,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "9. Intermediate Javascript",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/8/0",
   title: "Random Number Generation in Javascript: Building a Love Calculator ",
   duration: "11:15",
@@ -651,7 +651,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "10. The Document Object Model (DOM)",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/9/0",
   title: "Adding Javascript to Websites ",
   duration: "10:44",
@@ -700,7 +700,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "11. Boss Level Challenge 1 - The Dicee Game",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/10/0",
   title: "Challenge: The Dicee Challenge ",
   duration: "02:14",
@@ -714,7 +714,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "12. Advanced Javascript and DOM Manipulation",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/11/0",
   title: "What We'll Make: Drum Kit ",
   duration: "01:19",
@@ -784,7 +784,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "13. jQuery",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/12/0",
   title: "What is jQuery? ",
   duration: "03:44",
@@ -854,14 +854,14 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "14. Boss Level Challenge 2 - The Simon Game",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/13/0",
   title: "What You'll Make: The Simon Game ",
   duration: "01:00",
   type: "video"
 },
 
-{
+{ section: "15. The Unix Command Line",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/14/0",
   title: "Command Line Hyper Setup ",
   duration: "04:53",
@@ -889,14 +889,14 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "16. Backend Web Development",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/15/0",
   title: "Backend Web Development Explained ",
   duration: "08:02",
   type: "video"
 },
 
-{
+{ section: "17. Node.js",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/16/0",
   title: "What is Node.js? ",
   duration: "05:40",
@@ -931,7 +931,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "18. Express.js with Node.js",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/17/0",
   title: "What is Express? ",
   duration: "03:24",
@@ -994,7 +994,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "19. Git, Github and Version Control",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/18/0",
   title: "Introduction to Version Control and Git ",
   duration: "02:35",
@@ -1042,8 +1042,8 @@ var curriculum = [
   duration: "17:08",
   type: "video"
 },
-
-{
+ 
+{ section: "20. APIs - Application Programming Interfaces",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/19/0",
   title: "What are APIs? Application Programming Interfaces Demystified ",
   duration: "29:33",
@@ -1106,7 +1106,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "21. APIs - Application Programming Interfaces",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/20/0",
   title: "What We'll Make: A ToDoList ",
   duration: "00:46",
@@ -1169,7 +1169,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "22. Boss Level Challenge 3 - Blog Website",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/21/0",
   title: "A New Challenge Format and What We'll Make: A Blog ",
   duration: "06:18",
@@ -1477,14 +1477,14 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "23. Databases",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/22/0",
   title: "Databases Explained: SQL vs. NOSQL ",
   duration: "19:58",
   type: "video"
 },
 
-{
+{ section: "24. SQL",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/23/0",
   title: "SQL Commands: CREATE Table and INSERT Data ",
   duration: "13:48",
@@ -1519,7 +1519,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "25. MongoDB",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/24/0",
   title: "Installing MongoDB on Mac ",
   duration: "12:34",
@@ -1575,7 +1575,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "26. Mongoose",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/25/0",
   title: "Introduction to Mongoose ",
   duration: "20:26",
@@ -1610,7 +1610,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "27. Putting Everything Together",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/26/0",
   title: "Let's take the ToDoList Project to the Next Level and Connect it with Mongoose ",
   duration: "16:46",
@@ -1659,7 +1659,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "28. Deploying Your Web Application",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/27/0",
   title: "How to Deploy Web Apps with a Database ",
   duration: "05:02",
@@ -1680,14 +1680,14 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "29. Boss Level Challenge 4 - Blog Website Upgrade",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/28/0",
   title: "Challenge: Give your Blog a Database ",
   duration: "02:31",
   type: "video"
 },
 
-{
+{ section: "30. Build Your Own RESTful API From Scratch",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/29/0",
   title: "What is REST? ",
   duration: "17:08",
@@ -1771,7 +1771,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "31. Authentication & Security",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/30/0",
   title: "Introduction to Authentication ",
   duration: "05:46",
@@ -1855,7 +1855,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "32. React.js",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/31/0",
   title: "What is React? ",
   duration: "07:28",
@@ -2163,7 +2163,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "33. Bonus Module: Design School 101",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/32/0",
   title: "Designer vs. Non-Designer Thinking ",
   duration: "03:33",
@@ -2275,7 +2275,7 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "34. Bonus Module: Ask Angela Anything",
   link: host1 + "/play/the-complete-2020-web-development-bootcamp/33/0",
   title: "AAA 1 - How to Soak in Programming Concepts and more... ",
   duration: "39:42",
