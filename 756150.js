@@ -973,7 +973,7 @@ var curriculum = [
   type: "video"
 },
 
-{ Service: "12. Course Project - Routing",
+{ section: "12. Course Project - Routing",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/11/1",
   title: "Setting Up Routes ",
   duration: "07:58",
@@ -1127,14 +1127,14 @@ var curriculum = [
   type: "video"
 },
 
-{
+{ section: "14. Course Project - Observables",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/13/0",
   title: "Improving the Reactive Service with Observables (Subjects) ",
   duration: "06:04",
   type: "video"
 },
 
-{ section: "14. Course Project - Observables",
+{ section: "15. Handling Forms in Angular Apps",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/14/0",
   title: "Module Introduction ",
   duration: "01:19",
@@ -1365,7 +1365,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "15. Handling Forms in Angular Apps",
+{ section: "16. Course Project - Forms",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/15/0",
   title: "Introduction ",
   duration: "00:59",
@@ -1512,7 +1512,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "16. Course Project - Forms",
+{ section: "17. Using Pipes to Transform Output",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/16/0",
   title: "Introduction & Why Pipes are Useful ",
   duration: "02:01",
@@ -1582,7 +1582,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "17. Using Pipes to Transform Output",
+{ section: "18. Making Http Requests",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/17/0",
   title: "A New IDE ",
   duration: "00:43",
@@ -1771,7 +1771,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "18. Making Http Requests",
+{ section: "19. Course Project - Http",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/18/0",
   title: "Module Introduction ",
   duration: "00:55",
@@ -1827,7 +1827,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "19. Course Project - Http",
+{ section: "20. Authentication & Route Protection in Angular",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/19/0",
   title: "Module Introduction ",
   duration: "00:52",
@@ -1974,7 +1974,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "20. Authentication & Route Protection in Angular",
+{ section: "21. Dynamic Components",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/20/0",
   title: "Module Introduction ",
   duration: "01:09",
@@ -2037,7 +2037,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "21. Dynamic Components",
+{ section: "22. Angular Modules & Optimizing Angular Apps",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/21/0",
   title: "Module Introduction ",
   duration: "00:41",
@@ -2170,7 +2170,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "22. Angular Modules & Optimizing Angular Apps",
+{ section: "23. Deploying an Angular App",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/22/0",
   title: "Module Introduction ",
   duration: "00:52",
@@ -2198,7 +2198,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "23. Deploying an Angular App",
+{ section: "24. Bonus: Working with NgRx in our Project",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/23/0",
   title: "Module Introduction ",
   duration: "00:46",
@@ -2821,7 +2821,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "24. Bonus: Working with NgRx in our Project",
+{ section: "25. Bonus: Angular Universal",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/24/0",
   title: "Module Introduction ",
   duration: "03:04",
@@ -2891,7 +2891,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "25. Bonus: Angular Universal",
+{ section: "26. Bonus: Angular Universal",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/25/0",
   title: "Introduction ",
   duration: "01:03",
@@ -2968,7 +2968,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "26. Angular Animations",
+{ section: "27. Adding Offline Capabilities with Service Workers",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/26/0",
   title: "Module Introduction ",
   duration: "02:09",
@@ -2996,7 +2996,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "27. Adding Offline Capabilities with Service Workers",
+{ section: "28. A Basic Introduction to Unit Testing in Angular Apps",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/27/0",
   title: "Introduction ",
   duration: "01:18",
@@ -3059,7 +3059,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "28. A Basic Introduction to Unit Testing in Angular Apps",
+{ section: "29. Angular Changes & New Features",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/28/0",
   title: "What's New with Angular 8? ",
   duration: "11:51",
@@ -3073,14 +3073,14 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "29. Angular Changes & New Features",
+{ section: "30. Course Roundup",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/29/0",
   title: "Course Roundup ",
   duration: "01:33",
   type: "video"
 },
 
-{ section: "30. Course Roundup",
+{ section: "31. Custom Project & Workflow Setup",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/30/0",
   title: "Introduction ",
   duration: "00:44",
@@ -3164,7 +3164,7 @@ var curriculum = [
   type: "video"
 },
 
-{ section: "31. Custom Project & Workflow Setup",
+{ section: "32. Bonus: TypeScript Introduction (for Angular 2 Usage)",
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/31/0",
   title: "Introduction ",
   duration: "02:09",
