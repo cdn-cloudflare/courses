@@ -1,5 +1,3 @@
-// Angular - The Complete Guide (2020 Edition)
-
 var curriculum = [
 
 { section: "1. Getting Started",
@@ -305,7 +303,7 @@ var curriculum = [
 
 {
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/2/6",
-  title: "Creating a "Recipe" Model ",
+  title: `Creating a "Recipe" Model`,
   duration: "04:33",
   type: "video"
 },
@@ -340,7 +338,7 @@ var curriculum = [
 
 {
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/2/11",
-  title: "Creating an "Ingredient" Model ",
+  title: `Creating an "Ingredient" Model `,
   duration: "02:35",
   type: "video"
 },
