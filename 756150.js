@@ -2942,7 +2942,7 @@ var curriculum = [
 
 {
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/25/7",
-  title: "The "void" State ",
+  title: `The "void" State `,
   duration: "06:11",
   type: "video"
 },
@@ -3047,7 +3047,7 @@ var curriculum = [
 
 {
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/27/7",
-  title: "Using "fakeAsync" and "tick" ",
+  title: `Using "fakeAsync" and "tick" `,
   duration: "02:14",
   type: "video"
 },
