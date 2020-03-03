@@ -1570,14 +1570,14 @@ var curriculum = [
 
 {
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/16/8",
-  title: "Pure and Impure Pipes (or: How to "fix" the Filter Pipe) ",
+  title: `Pure and Impure Pipes (or: How to "fix" the Filter Pipe) `,
   duration: "04:46",
   type: "video"
 },
 
 {
   link: host1 + "/play/angular-8-formerly-angular-2-the-complete-guides/16/9",
-  title: "Understanding the "async" Pipe ",
+  title: `Understanding the "async" Pipe `,
   duration: "04:03",
   type: "video"
 },
